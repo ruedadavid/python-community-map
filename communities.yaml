@@ -6,12 +6,6 @@
   lng: -47.820840
   url: https://www.meetup.com/grupy-rp/
 
-- name: Python Floripa
-  lat: -27.596910
-  lng: -48.549580
-  url: http://floripa.sc.python.org.br/
-
-
 - name: Grupy-SP
   lat: -23.550520
   lng: -46.633308
@@ -21,6 +15,11 @@
   lat: -23.956290
   lng: -46.326460
   url: https://www.meetup.com/pt-BR/BxPy013/
+
+- name: Python Floripa
+  lat: -27.596910
+  lng: -48.549580
+  url: http://floripa.sc.python.org.br/
 
 ###
 ### Germany
