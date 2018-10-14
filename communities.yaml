@@ -1,6 +1,11 @@
 ###
 ### Brazil
 ###
+- name: GruPy-RN
+  lat: -5.824935
+  lng: -35.211567
+  url: https://meetup.grupyrn.org
+
 - name: GruPy-RP
   lat: -21.176630
   lng: -47.820840
