@@ -5,6 +5,11 @@
   lat: -5.824935
   lng: -35.211567
   url: https://meetup.grupyrn.org
+  
+- name: PUG-CE
+  lat: -3.7913486
+  lng: -38.5892419
+  url: http://pylestras.org/
 
 - name: GruPy-RP
   lat: -21.176630
