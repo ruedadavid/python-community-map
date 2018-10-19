@@ -51,3 +51,11 @@
   lat: -33.924870
   lng: 18.424055
   url: https://ctpug.org.za/
+
+###
+### United States
+###
+- name: ChiPy
+  lat: 41.8781
+  lng: 87.6298
+  url: http://www.chipy.org/
