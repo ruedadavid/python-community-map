@@ -5,7 +5,7 @@
   lat: -5.824935
   lng: -35.211567
   url: https://meetup.grupyrn.org
-  
+
 - name: PUG-CE
   lat: -3.7913486
   lng: -38.5892419
@@ -35,6 +35,14 @@
   lat: -8.063169
   lng: -34.871143
   url: http://www.pug.pe/
+
+###
+### Central America
+###
+- name: Python Nicaragua
+  lat: 12.0978181
+  lng: -86.328501
+  url: https://www.meetup.com/es-ES/Python-Nicaragua/
 
 ###
 ### Germany
