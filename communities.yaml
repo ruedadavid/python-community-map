@@ -67,3 +67,8 @@
   lat: 41.8781
   lng: -87.6298
   url: http://www.chipy.org/
+  
+- name: DerbyPy
+  lat: 38.2527
+  lng: -85.7585
+  url: https://www.meetup.com/derbypy/
