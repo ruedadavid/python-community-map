@@ -67,3 +67,7 @@
   lat: 41.8781
   lng: -87.6298
   url: http://www.chipy.org/
+- name: MEMpy
+  lat: 35.149532
+  lng: -90.048981
+  url: http://www.mempy.org/
