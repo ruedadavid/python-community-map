@@ -105,3 +105,8 @@
   lat: 35.149532
   lng: -90.048981
   url: http://www.mempy.org/
+
+- name: New Hampshire Python Group
+  lat: 42.987354
+  lng: -71.463033
+  url: https://www.meetup.com/New-Hampshire-Python-Group/
