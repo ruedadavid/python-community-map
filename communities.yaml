@@ -67,3 +67,8 @@
   lat: 41.8781
   lng: -87.6298
   url: http://www.chipy.org/
+
+- name: New Hampshire Python Group
+  lat: 42.987354
+  lng: -71.463033
+  url: https://www.meetup.com/New-Hampshire-Python-Group/
