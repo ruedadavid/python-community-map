@@ -1,6 +1,11 @@
 ###
 ### Brazil
 ###
+- name: PUG-PB
+  lat: -7.119564
+  lng: -34.8833767
+  url: https://pb.python.org.br
+
 - name: GruPy-RN
   lat: -5.824935
   lng: -35.211567
