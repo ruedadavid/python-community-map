@@ -51,6 +51,11 @@
   lng: -38.4966752
   url: https://www.meetup.com/pt-BR/Salvador-Python-Meetup/
 
+- name: Python Joinville
+  lat: -26.304760
+  lng: -48.845870
+  url: http://python.joinville.br/
+
 ###
 ### Central America
 ###
