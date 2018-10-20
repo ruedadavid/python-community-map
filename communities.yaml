@@ -1,6 +1,11 @@
 ###
 ### Brazil
 ###
+- name: PUG-PB
+  lat: -7.119564
+  lng: -34.8833767
+  url: https://pb.python.org.br
+
 - name: GruPy-RN
   lat: -5.824935
   lng: -35.211567
@@ -31,10 +36,20 @@
   lng: -48.549580
   url: http://floripa.sc.python.org.br/
 
+- name: Python-MG
+  lat: -19.912998
+  lng: -43.940933
+  url: https://pythonmg.github.io/
+
 - name: PUG-PE
   lat: -8.063169
   lng: -34.871143
   url: http://www.pug.pe/
+  
+  name: GruPy-SSA
+  lat: -13.0108746
+  lng: -38.4966752
+  url: https://www.meetup.com/pt-BR/Salvador-Python-Meetup/
 
 ###
 ### Central America
@@ -53,6 +68,14 @@
   url: https://www.meetup.com/Python-User-Group-Freiburg/
 
 ###
+### Greece
+###
+- name: Python User Group Greece
+  lat: 37.983103
+  lng: 23.724767
+  url: http://python.org.gr/
+
+###
 ### South Africa
 ###
 - name: Cape Town Python User Group (CTPUG)
@@ -67,6 +90,17 @@
   lat: 41.8781
   lng: -87.6298
   url: http://www.chipy.org/
+  
+- name: DerbyPy
+  lat: 38.2527
+  lng: -85.7585
+  url: https://www.meetup.com/derbypy/
+
+- name: fresno.py
+  lat: 36.762740
+  lng: -119.798830
+  url: https://www.meetup.com/fresnopython/
+
 - name: MEMpy
   lat: 35.149532
   lng: -90.048981
