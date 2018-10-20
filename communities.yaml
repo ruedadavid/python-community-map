@@ -31,6 +31,11 @@
   lng: -48.549580
   url: http://floripa.sc.python.org.br/
 
+- name: Python-MG
+  lat: -19.912998
+  lng: -43.940933
+  url: https://pythonmg.github.io/
+
 - name: PUG-PE
   lat: -8.063169
   lng: -34.871143
