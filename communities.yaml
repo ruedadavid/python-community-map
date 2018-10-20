@@ -56,6 +56,11 @@
   lng: -48.845870
   url: http://python.joinville.br/
 
+- name: GruPy-DF
+  lat: -15.7744228
+  lng: -48.0772825
+  url: http://df.python.org.br/
+
 ###
 ### Central America
 ###
