@@ -91,6 +91,14 @@
   url: http://python.org.gr/
 
 ###
+### Nigeria
+###
+- name: Python Nigeria
+  lat: 9.0820
+  lng: 8.6753
+  url: http://pythonnigeria.org/
+
+###
 ### South Africa
 ###
 - name: Cape Town Python User Group (CTPUG)
