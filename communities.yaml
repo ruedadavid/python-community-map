@@ -136,5 +136,5 @@
 
 - name: Boston Python 
   lat: 42.361482
-  long: -71.081226
+  lng: -71.081226
   url: https://www.meetup.com/bostonpython/
