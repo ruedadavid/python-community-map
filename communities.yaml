@@ -67,6 +67,14 @@
   url: http://df.python.org.br/
 
 ###
+### Cameroon
+###
+- name: Python Academy
+  lat: 7.416529
+  lng: 13.550368
+  url: https://bit.ly/python-academy/
+
+###
 ### Central America
 ###
 - name: Python Nicaragua
