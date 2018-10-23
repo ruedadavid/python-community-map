@@ -75,6 +75,14 @@
   url: https://www.meetup.com/es-ES/Python-Nicaragua/
 
 ###
+### Ecuador
+###
+- name: Python Ecuador
+  lat: -1.831239
+  lng: -78.183403
+  url: https://pythonecuador.org/
+
+###
 ### Germany
 ###
 - name: Python User Group Freiburg
