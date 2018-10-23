@@ -127,6 +127,11 @@
   lng: -85.7585
   url: https://www.meetup.com/derbypy/
 
+- name: DFW Pythoneers
+  lat: 33.0782823
+  lng: -96.8082226
+  url: https://www.meetup.com/dfwpython/
+
 - name: fresno.py
   lat: 36.762740
   lng: -119.798830
