@@ -117,6 +117,11 @@
 ###
 ### United States
 ###
+- name: The Austin Python Meetup
+  lat: 30.2688755
+  lng: -97.7405641
+  url: https://www.meetup.com/austinpython/
+  
 - name: ChiPy
   lat: 41.8781
   lng: -87.6298
