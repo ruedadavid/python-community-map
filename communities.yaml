@@ -162,6 +162,11 @@
   lng: -84.387985
   url: https://www.meetup.com/python-atlanta/
 
+- name: PyHawaii: Python User Group
+  lat: 21.295134
+  lng: -157.85178
+  url: https://www.meetup.com/PyHawaii-Python-Users-Group/
+
 - name: Python for Everyone
   lat: 33.027852
   lng: -96.7115229
