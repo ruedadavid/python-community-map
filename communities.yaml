@@ -151,6 +151,11 @@
   lat: 42.361482
   lng: -71.081226
   url: https://www.meetup.com/bostonpython/
+  
+- name: Puget Sound Programming Python (PuPPy)
+  lat: 47.5989758
+  lng: -122.3337873
+  url: https://www.meetup.com/PSPPython/
 
 - name: PyAtl
   lat: 33.748997
