@@ -3,6 +3,8 @@ A map full of lovely Python communities 🐍❤️  currently deployed at https:
 
 *This is not a map for specific events or conferences, but rather for local communities.*
 
+[![Build Status](https://travis-ci.org/jonatasbaldin/python-community-map.svg?branch=master)](https://travis-ci.org/jonatasbaldin/python-community-map)
+
 ## How to add a new community to the map?
 ### 1. Fork this repo
 First of all, fork this repo :) You can find instructions [here](https://help.github.com/articles/fork-a-repo/) or [here](https://guides.github.com/activities/forking/).
