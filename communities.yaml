@@ -112,6 +112,15 @@
   url: http://pythonnigeria.org/
 
 ###
+### Peru
+###
+
+- name: Python Lima
+  lat: -12.046373
+  lng: -77.042755
+  url: https://www.meetup.com/pythonperu/
+
+###
 ### South Africa
 ###
 - name: Cape Town Python User Group (CTPUG)
@@ -181,12 +190,3 @@
   lat: 33.027852
   lng: -96.7115229
   url: https://www.meetup.com/python4e/
-
-###
-### Perú
-###
-
-- name: Python Lima
-  lat: -12.046373
-  lng: -77.042755
-  url: https://www.meetup.com/pythonperu/
