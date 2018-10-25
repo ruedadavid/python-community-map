@@ -66,6 +66,11 @@
   lng: -48.0772825
   url: http://df.python.org.br/
 
+- name: PythOnRio
+  lat: -22.9094444
+  lng: -43.1763889
+  url: http://pythonrio.python.org.br
+
 ###
 ### Central America
 ###
