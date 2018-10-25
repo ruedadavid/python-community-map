@@ -112,12 +112,31 @@
   url: http://pythonnigeria.org/
 
 ###
+### Peru
+###
+
+- name: Python Lima
+  lat: -12.046373
+  lng: -77.042755
+  url: https://www.meetup.com/pythonperu/
+
+###
 ### South Africa
 ###
 - name: Cape Town Python User Group (CTPUG)
   lat: -33.924870
   lng: 18.424055
   url: https://ctpug.org.za/
+
+- name: Gauteng Python User Group (GPUG)
+  lat: -26.204103
+  lng: 28.047304
+  url: https://www.meetup.com/Gauteng-Python-Users-Group/
+
+- name: PyData Johannesburg
+  lat: -26.233215
+  lng: 28.172847
+  url: https://www.meetup.com/PyData-Johannesburg/
 
 ###
 ### United States
@@ -181,12 +200,3 @@
   lat: 33.027852
   lng: -96.7115229
   url: https://www.meetup.com/python4e/
-
-###
-### Perú
-###
-
-- name: Python Lima
-  lat: -12.046373
-  lng: -77.042755
-  url: https://www.meetup.com/pythonperu/
