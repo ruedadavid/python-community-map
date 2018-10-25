@@ -126,7 +126,7 @@
   lat: 30.2688755
   lng: -97.7405641
   url: https://www.meetup.com/austinpython/
-  
+
 - name: ChiPy
   lat: 41.8781
   lng: -87.6298
@@ -161,7 +161,7 @@
   lat: 42.361482
   lng: -71.081226
   url: https://www.meetup.com/bostonpython/
-  
+
 - name: Puget Sound Programming Python (PuPPy)
   lat: 47.5989758
   lng: -122.3337873
@@ -181,3 +181,12 @@
   lat: 33.027852
   lng: -96.7115229
   url: https://www.meetup.com/python4e/
+
+###
+### Perú
+###
+
+- name: Python Lima
+  lat: -12.046373
+  lng: -77.042755
+  url: https://www.meetup.com/pythonperu/
