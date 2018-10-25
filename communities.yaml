@@ -128,6 +128,16 @@
   lng: 18.424055
   url: https://ctpug.org.za/
 
+- name: Gauteng Python User Group (GPUG)
+  lat: -26.204103
+  lng: 28.047304
+  url: https://www.meetup.com/Gauteng-Python-Users-Group/
+
+- name: PyData Johannesburg
+  lat: -26.233215
+  lng: 28.172847
+  url: https://www.meetup.com/PyData-Johannesburg/
+
 ###
 ### United States
 ###
