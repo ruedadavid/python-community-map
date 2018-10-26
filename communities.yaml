@@ -31,6 +31,11 @@
   lng: -46.326460
   url: https://www.meetup.com/pt-BR/BxPy013/
 
+- name: PyNorte
+  lat: -3.131633
+  lng: -59.982504
+  url: https://pt-br.facebook.com/pynorte/
+
 - name: PyTche
   lat: -30.0346
   lng: -51.2177
