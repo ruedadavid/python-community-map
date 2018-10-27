@@ -1,4 +1,12 @@
 ###
+### Argentina
+###
+- name: Python Argentina
+  lat: -34.6037
+  lng: -58.3816
+  url: http://www.python.org.ar/
+
+###
 ### Brazil
 ###
 - name: Apythonados - CM
