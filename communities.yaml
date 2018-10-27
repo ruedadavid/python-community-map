@@ -1,6 +1,11 @@
 ###
 ### Brazil
 ###
+- name: Apythonados - CM
+  lat: -5.635240
+  lng: -35.420190
+ # url: We will get an URL soon :D
+
 - name: PUG-PB
   lat: -7.119564
   lng: -34.8833767
