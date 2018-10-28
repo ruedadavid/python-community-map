@@ -6,6 +6,11 @@
   lng: -58.3816
   url: http://www.python.org.ar/
 
+- name: Python Norte
+  lat: -24.789376
+  lng: -65.410401
+  url: https://t.me/pythonnorte
+
 ###
 ### Brazil
 ###
