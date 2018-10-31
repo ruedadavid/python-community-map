@@ -36,5 +36,21 @@ To get the latitude and longitude information, you can use [this](https://www.la
 ### 3. Make a pull request
 At the end, create a pull request for this repository! You can find instructions [here](https://help.github.com/articles/creating-a-pull-request/).
 
+## A note on scrapping
+> Personally, I want to avoid web scrapping to mass collect communities from other websites or repositories, because I'd like to see people adding the communities they _belong_ to. I think it creates a better sense of "putting yourself on the map" and also incentivise people to contribute to open source :)
+
+## Testing
+To run the tests locally, you'll need NodeJS, probably version 8 or higher. I'm using v10.
+
+Install everything:
+```
+$ npm install
+```
+
+Run the tests:
+```
+$ npm test
+```
+
 ## License
 [MIT](https://github.com/jonatasbaldin/python-community-map/blob/master/LICENSE).
