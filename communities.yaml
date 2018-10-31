@@ -44,6 +44,11 @@
   lng: -46.633308
   url: https://www.meetup.com/pt-BR/Grupy-SP/
 
+- name: GruPy-ABC
+  lat: -23.684167
+  lng: -46.506865
+  url: http://grupyabc.org/
+
 - name: py013
   lat: -23.956290
   lng: -46.326460
