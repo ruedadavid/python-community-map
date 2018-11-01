@@ -25,7 +25,7 @@ describe('communities', function() {
       // url
       assert.ok(community.hasOwnProperty('url'), `${community.name} must have a url`)
       assert.typeOf(community.url, 'string', `${community.name} url must be a string`)
-      assert.ok(new URL(community.url), `${community.name} url is invalid`)
+      assert.ok(new url.URL(community.url), `${community.name} url is invalid`)
     })
   })
 
