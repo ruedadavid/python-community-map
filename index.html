@@ -51,70 +51,30 @@
       gtag('config', 'UA-128211633-1');
     </script>
     <script>
-      let URL = 'https://raw.githubusercontent.com/jonatasbaldin/python-community-map/master/communities.yaml';
+      var URL = 'https://raw.githubusercontent.com/jonatasbaldin/python-community-map/master/communities.yaml'
     
       fetch(URL).then(function(response) {
         response.text().then(function(data) { initMap(data) })
       })
 
       function infoWindowContent(strings) {
-        console.log(strings);
-        let [name, url, avatar, description] = strings;
-        let maxLength = 256;
-        if (description !== undefined) {
-          description = description.substring(0, maxLength);
-        }
-        let content = '';
-        if (avatar === undefined && description === undefined) {
-          content = `
-          <div id="content">
-            <div id="siteNotice"></div>
-            <div id="bodyContent">
-              <p><a target="_blank" href="${url}">${name}</a></p>
-            </div>
-          </div>`;
-        } else if (avatar !== undefined && description !== undefined) {
-          content = `
-          <div id="content">
-            <div id="siteNotice"></div>
-            <div id="bodyContent">
-              <div class="avatar">
-                <a href="${url}">
-                  <img src="${avatar}" alt="">
-                  <span>${name}</span>
-                </a>
-              </div>
-              <p>${description}</p>
-            </div>
-          </div>`;
+        var [name, url, avatar] = strings
 
-        } else if (avatar !== undefined) {
-          content = `
+        if (avatar === undefined) {
+          avatar = 'https://github.com/jonatasbaldin/python-community-map/raw/master/logo.png'
+        }
+
+        var content = `
           <div id="content">
-            <div id="siteNotice"></div>
+            <div id="siteNotice" />
             <div id="bodyContent">
               <div class="avatar">
-                <a href="${url}">
-                  <img src="${avatar}" alt="">
-                  <span>${name}</span>
-                </a>
+                <img src="${avatar}" alt="${name} logo">
+                <a href="${url}" target="_blank">${name}</a>
               </div>
             </div>
-          </div>`;
-        } else { //description !== undefined
-          content = `
-          <div id="content">
-            <div id="siteNotice"></div>
-            <div id="bodyContent">
-              <div class="avatar">
-                <a href="${url}">
-                  <span>${name}</span>
-                </a>
-              <p>${description}</p>
-            </div>
-          </div>`;
-        }
-        
+          </div>
+          `
 
         return content
       }
@@ -123,11 +83,11 @@
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 2,
           center: {lat: -0, lng: -18}
-        });
+        })
 
         var infowindow = new google.maps.InfoWindow({
           content: '',
-        });
+        })
 
         markers = YAML.parse(communities)
 
@@ -143,8 +103,7 @@
               item.name, 
               item.url, 
               item.avatar,
-              item.description
-            ]));
+            ]))
             infowindow.open(map, item['marker'])
           })
 
