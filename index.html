@@ -58,18 +58,18 @@
       })
 
       function infoWindowContent(strings) {
-        var [name, url, avatar] = strings
+        var [name, url, logo] = strings
 
-        if (avatar === undefined) {
-          avatar = 'https://github.com/jonatasbaldin/python-community-map/raw/master/logo.png'
+        if (logo === undefined) {
+          logo = 'https://github.com/jonatasbaldin/python-community-map/raw/master/logo.png'
         }
 
         var content = `
           <div id="content">
             <div id="siteNotice" />
             <div id="bodyContent">
-              <div class="avatar">
-                <img src="${avatar}" alt="${name} logo">
+              <div class="logo">
+                <img src="${logo}" alt="${name} logo">
                 <a href="${url}" target="_blank">${name}</a>
               </div>
             </div>
@@ -102,7 +102,7 @@
             infowindow.setContent(infoWindowContent([
               item.name, 
               item.url, 
-              item.avatar,
+              item.logo,
             ]))
             infowindow.open(map, item['marker'])
           })

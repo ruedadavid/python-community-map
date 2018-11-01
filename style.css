@@ -51,24 +51,24 @@ footer a:hover, a:active {
   font-size: 14px;
 }
 
-.avatar {
+.logo {
   font-size: 1.5em;
   font-family: 'Open Sans', sans-serif;
   padding: 0.5em 0.2em 0.2em 0.5em;
 }
 
-.avatar a {
+.logo a {
   text-decoration: none;
   padding-left: 0.7em;
 }
 
-.avatar img {
+.logo img {
   max-width: 42px !important;
   border-radius: 50%;
   vertical-align: middle;
 }
 
-.avatar span {
+.logo span {
   vertical-align: middle;
   padding-left: 0.5em;
 }
@@ -86,11 +86,11 @@ footer a:hover, a:active {
     font-size: 10px;
   }
 
-  .avatar {
+  .logo {
     font-size: 14px;
   }
 
-  .avatar img {
+  .logo img {
     max-width: 32px !important;
   }
 }

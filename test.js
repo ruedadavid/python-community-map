@@ -27,8 +27,8 @@ describe('communities', function() {
       assert.typeOf(community.url, 'string', `${community.name} url must be a string`)
       assert.ok(new URL(community.url), `${community.name} url is invalid`)
 
-      // avatar
-      if (community.hasOwnProperty('avatar') !== undefined) {
+      // logo
+      if (community.hasOwnProperty('logo') !== undefined) {
         assert.typeOf(community.url, 'string', `${community.name} url must be a string`)
       }
     })
