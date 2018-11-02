@@ -105,6 +105,16 @@
   lng: -38.526997
   url: https://www.facebook.com/PyLadiesFortaleza/
 
+- name: Pydata Brasília
+  lat: -15.834138
+  lng: -47.919573
+  url: https://www.meetup.com/PyData-Brasilia/
+
+- name: Pydata Belo Horizonte
+  lat: -19.924851
+  lng: -43.937731
+  url: https://www.meetup.com/PyData-Belo-Horizonte/
+
 ###
 ### Cameroon
 ###
