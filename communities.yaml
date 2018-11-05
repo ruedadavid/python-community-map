@@ -131,6 +131,29 @@
   url: https://www.meetup.com/es-ES/Python-Nicaragua/
 
 ###
+### Colombia
+###
+- name: Python Colombia
+  lat: 4.655211
+  lng: -74.055966
+  url: https://www.python.org.co/
+
+- name: Python Bogotá
+  lat: 4.655211
+  lng: -74.055966
+  url: https://pythonbogota.org
+ 
+- name: Python Bucaramanga
+  lat: 7.104380
+  lng: -73.122420
+  url: http://pybuc.org
+ 
+- name: Python Pereira
+  lat: 4.804501
+  lng: -75.725307
+  url: http://pypereira.co/
+  
+###
 ### Ecuador
 ###
 - name: Python Ecuador
